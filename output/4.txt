@@ -1,0 +1,12 @@
+Sentence 1 (Index 1): Among them, six had been unvaccinated against COVID-19, two had been partially vaccinated and one had been fully vaccinated. 
+Sentence 2 (Index 0): With young children unable to even receive the vaccine at this point, this brings a level of unnecessary risk. 
+Similarity score: 0.47855010628700256
+Sentence 1 (Index 0): Vaccines for kids under 5 may not come until next year. 
+Sentence 2 (Index 1): (CNN) Nearly 66 million people in the United States who are eligible still have not gotten vaccinated against Covid-19, no matter how much danger that puts them in and no matter how many incentives or mandates have been thrown at them. 
+Similarity score: 0.4750823378562927
+Sentence 1 (Index 0): Vaccines for kids under 5 may not come until next year. 
+Sentence 2 (Index 2): This is not about a vaccine, or medicine or a virus. 
+Similarity score: 0.46179336309432983
+Sentence 1 (Index 0): Vaccines for kids under 5 may not come until next year. 
+Sentence 2 (Index 1): (CNN) Nearly 66 million people in the United States who are eligible still have not gotten vaccinated against Covid-19, no matter how much danger that puts them in and no matter how many incentives or mandates have been thrown at them. 
+Similarity score: 0.43546152114868164

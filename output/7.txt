@@ -1,0 +1,3 @@
+Sentence 1 (Index 0): Vaccines for kids under 5 may not come until next year. 
+Sentence 2 (Index 0): With young children unable to even receive the vaccine at this point, this brings a level of unnecessary risk. 
+Similarity score: 0.7203729152679443
